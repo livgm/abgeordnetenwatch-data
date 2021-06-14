@@ -1,0 +1,2668 @@
+[
+  {
+    "id": 3,
+    "name": "Hamburg",
+    "periods": [
+      {
+        "id": 64,
+        "name": "Hamburg 2004 - 2008",
+        "polls": [
+          {
+            "id": 673,
+            "title": "Teilprivatisierung der HHLA",
+            "date": "2007-07-04",
+            "description": "Mit der Abstimmung hat die Bürgerschaft den Weg für eine Teilprivatisierung der stadteigenen HHLA frei gemacht.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/teilprivatisierung-der-hhla/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                60,
+                0,
+                0,
+                3
+              ],
+              "7": [
+                41,
+                0,
+                38,
+                0,
+                3
+              ],
+              "96": [
+                17,
+                0,
+                14,
+                0,
+                3
+              ],
+              "total": [
+                121,
+                60,
+                52,
+                0,
+                9
+              ]
+            }
+          },
+          {
+            "id": 672,
+            "title": "Nichtraucherschutzgesetz",
+            "date": "2007-07-04",
+            "description": "Ein Verstoß gegen das Rauchverbot kann bis zu 200 Euro kosten. Gaststättenbetreibern drohen noch höhere Geldbußen, wenn sie das Rauchen nicht unterbinden.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/nichtraucherschutzgesetz/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                59,
+                0,
+                2,
+                2
+              ],
+              "7": [
+                41,
+                39,
+                0,
+                0,
+                2
+              ],
+              "96": [
+                17,
+                14,
+                0,
+                0,
+                3
+              ],
+              "total": [
+                121,
+                112,
+                0,
+                2,
+                7
+              ]
+            }
+          },
+          {
+            "id": 657,
+            "title": "Staatskirchenvertrag mit der Katholischen Kirche",
+            "date": "2006-06-29",
+            "description": "Mit großer Mehrheit hat die Bürgerschaft einem Staatskirchenvertrag zwischen dem Heiligen Stuhl und der Freien Hansestadt Hamburg zugestimmt. Unterstützung fand der Staatsvertrag bei der CDU und großen Teilen der SPD-Fraktion. Die GAL lehnte den Entwurf geschlossen ab.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/staatskirchenvertrag-mit-der-katholischen-kirche/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                58,
+                0,
+                3,
+                2
+              ],
+              "7": [
+                41,
+                27,
+                10,
+                0,
+                4
+              ],
+              "96": [
+                17,
+                0,
+                15,
+                2,
+                0
+              ],
+              "total": [
+                121,
+                85,
+                25,
+                5,
+                6
+              ]
+            }
+          },
+          {
+            "id": 656,
+            "title": "Staatskirchenvertrag mit der Evangelischen Kirche",
+            "date": "2006-06-29",
+            "description": "Deutliche Zustimmung der Bürgerschaft für einen Staatskirchenvertrag mit der Evangelischen Kirche: 88 Abgeordnete votierten für den Entwurf, 22 dagegen. Die meisten Gegenstimmen kamen von der GAL, aber auch eine Ja-Stimme.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/staatskirchenvertrag-mit-der-evangelischen-kirche/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                58,
+                0,
+                3,
+                2
+              ],
+              "7": [
+                41,
+                29,
+                6,
+                2,
+                4
+              ],
+              "96": [
+                17,
+                1,
+                15,
+                1,
+                0
+              ],
+              "total": [
+                121,
+                88,
+                21,
+                6,
+                6
+              ]
+            }
+          },
+          {
+            "id": 651,
+            "title": "CDU-Wahlrecht",
+            "date": "2006-10-11",
+            "description": "Auf ihrer Sitzung am 8. Mai 2006 hatte die Hamburger CDU-Bürgerschaftsfraktion entschieden, das durch einen Volksentscheid beschlossene Wahlrecht wieder zu ändern. Im Kern führen die Änderungen dazu, dass die Wählerinnen und Wähler ihren Einfluss auf die Auswahl ihrer Abgeordneten zugunsten der Parteispitze verlieren. Am 11. Oktober 2006 beschloss die Bürgerschaft mit den Stimmen der CDU bei einer Gegenstimme aus den eigenen Reihen(Bruno Claußen) und gegen die Stimmen der Opposition das CDU Wahlrecht. \n\nDiese Änderung wurden am 27. April 2007 vom Hamburgischen Verfassungsgericht teilweise als verfassungswidrig erklärt (Urteil). Daraufhin verabschiedete die Bürgerschaft am 4. Juli 2007 mit den Stimmen der CDU neue Änderungen.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/cdu-wahlrecht/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                62,
+                1,
+                0,
+                0
+              ],
+              "7": [
+                41,
+                0,
+                41,
+                0,
+                0
+              ],
+              "96": [
+                17,
+                0,
+                17,
+                0,
+                0
+              ],
+              "total": [
+                121,
+                62,
+                59,
+                0,
+                0
+              ]
+            }
+          },
+          {
+            "id": 650,
+            "title": "Erhalt des Bismarck-Bades in Altona",
+            "date": "2006-01-18",
+            "description": "Mit den Stimmen der CDU-Mehrheitsfraktion hat sich die Bürgerschaft gegen den Erhalt des Bismarck-Bades in Altona ausgesprochen. Die SPD hatte sich für dessen Fortbestehen eingesetzt, die GAL enhielt sich der Stimme.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/erhalt-des-bismarck-bades-altona/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                0,
+                62,
+                0,
+                1
+              ],
+              "7": [
+                41,
+                38,
+                0,
+                0,
+                3
+              ],
+              "96": [
+                17,
+                0,
+                0,
+                17,
+                0
+              ],
+              "total": [
+                121,
+                38,
+                62,
+                17,
+                4
+              ]
+            }
+          },
+          {
+            "id": 649,
+            "title": "Aufhebung des Korruptionsregisters",
+            "date": "2006-01-18",
+            "description": "61 CDU-Stimmen gegen 55 Oppositionsstimmen: Das ist das Ergebnis der Abstimmung über die Aufhebung des Korruptionsregisters. Dessen Einrichtung war kurz vor den Bürgerschaftswahlen 2004 von SPD, GAL und Schill Partei beschlossen worden.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/aufhebung-des-korruptionsregisters/tabelle"
+            ],
+            "votes": {
+              "5": [
+                62,
+                61,
+                0,
+                0,
+                1
+              ],
+              "7": [
+                41,
+                0,
+                38,
+                0,
+                3
+              ],
+              "96": [
+                17,
+                0,
+                17,
+                0,
+                0
+              ],
+              "total": [
+                120,
+                61,
+                55,
+                0,
+                4
+              ]
+            }
+          },
+          {
+            "id": 648,
+            "title": "Neues Gesetz zur Hundehaltung",
+            "date": "2006-01-18",
+            "description": "Als Reaktion auf sich häufende Bissvorfälle hat die Bürgerschaft einstimmig ein neues Gesetz zur Hundehaltung verabschiedet. Beschlossen wurde u.a. die Einführung eines zentralen Hunderegisters zur Erfassung der Halter-Daten, Chipnummer, Versicherungsnachweis, Rasse, Geschlecht und Geburtsdatum des Hundes sowie Verstöße gegen Rechtsvorschriften.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/neues-gesetz-zur-hundehaltung/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                62,
+                0,
+                0,
+                1
+              ],
+              "7": [
+                41,
+                38,
+                0,
+                0,
+                3
+              ],
+              "96": [
+                17,
+                17,
+                0,
+                0,
+                0
+              ],
+              "total": [
+                121,
+                117,
+                0,
+                0,
+                4
+              ]
+            }
+          },
+          {
+            "id": 647,
+            "title": "Änderung des Schulgesetzes",
+            "date": "2005-04-27",
+            "description": "Mit den Stimmen der CDU-Fraktion hat die Bürgerschaft Regelungen zur Lernmittelbeschaffung, Rauchverbot und Zusammenlegung von Schulen beschlossen. SPD und GAL stimmten einhellig gegen die Änderung des Schulgesetzes.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/aenderung-des-schulgesetzes/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                60,
+                0,
+                0,
+                3
+              ],
+              "7": [
+                41,
+                0,
+                38,
+                0,
+                3
+              ],
+              "96": [
+                17,
+                0,
+                16,
+                0,
+                1
+              ],
+              "total": [
+                121,
+                60,
+                54,
+                0,
+                7
+              ]
+            }
+          },
+          {
+            "id": 646,
+            "title": "Einführung von Studiengebühren",
+            "date": "2006-05-31",
+            "description": "Mit der Mehrheit der CDU-Fraktion hat die Bürgerschaft die Einführung von Studiengebühren beschlossen. Die Opposition aus SPD und GAL stimmten geschlossen gegen den Gesetzesentwurf.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/einfuehrung-von-studiengebuehren/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                61,
+                0,
+                0,
+                2
+              ],
+              "7": [
+                41,
+                0,
+                41,
+                0,
+                0
+              ],
+              "96": [
+                17,
+                0,
+                16,
+                0,
+                1
+              ],
+              "total": [
+                121,
+                61,
+                57,
+                0,
+                3
+              ]
+            }
+          },
+          {
+            "id": 645,
+            "title": "Novellierung des Polizeirechts",
+            "date": "2005-06-08",
+            "description": "Gegen die Stimmen der Opposition hat die Bürgerschaft eine Novellierung des Polizeirechts beschlossen. Das Gesetz enthält u.a. Regelungen zum Aufenthaltsverbot, zur Videoüberwachung und zum Finalen Rettungsschuss.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/novellierung-des-polizeirechts/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                60,
+                0,
+                0,
+                3
+              ],
+              "7": [
+                41,
+                0,
+                36,
+                0,
+                5
+              ],
+              "96": [
+                17,
+                0,
+                16,
+                0,
+                1
+              ],
+              "total": [
+                121,
+                60,
+                52,
+                0,
+                9
+              ]
+            }
+          },
+          {
+            "id": 644,
+            "title": "LBK Verkauf",
+            "date": "2004-12-16",
+            "description": "Die Hamburger Landesbetriebskrankenhäuser werden verkauft. Das beschloss die Bürgerschaft mit den Stimmen von 62 CDU-Abgeordneten bei 58 Gegenstimmen der Opposition.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/lbk-verkauf/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                62,
+                0,
+                0,
+                1
+              ],
+              "7": [
+                41,
+                0,
+                41,
+                0,
+                0
+              ],
+              "96": [
+                17,
+                0,
+                17,
+                0,
+                0
+              ],
+              "total": [
+                121,
+                62,
+                58,
+                0,
+                1
+              ]
+            }
+          },
+          {
+            "id": 643,
+            "title": "Veränderung der Volksgesetzgebung",
+            "date": "2005-04-14",
+            "description": "Mit 60 zu 56 Stimmen hat die Bürgerschaft eine Veränderung der Volksgesetzgebung beschlossen. Die CDU votierte einstimmig für den Gesetzesentwurf, SPD und GAL dagegen. Der Beschluss sieht u.a. vor, dass das Sammeln von Unterschriften für ein Volksbegehren künftig in Ämtern erfolgen muss und nicht mehr auf der Straße.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/hamburg/18/abstimmungen/veraenderung-der-volksgesetzgebung/tabelle"
+            ],
+            "votes": {
+              "5": [
+                63,
+                60,
+                0,
+                0,
+                3
+              ],
+              "7": [
+                41,
+                0,
+                40,
+                0,
+                1
+              ],
+              "96": [
+                17,
+                0,
+                16,
+                0,
+                1
+              ],
+              "total": [
+                121,
+                60,
+                56,
+                0,
+                5
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Thüringen",
+    "periods": [
+      {
+        "id": 121,
+        "name": "Thüringen 2019 - 2024",
+        "polls": [
+          {
+            "id": 3593,
+            "title": "Gesteigerte Investitionen in Thüringer Kommunen",
+            "date": "2020-03-06",
+            "description": "<p>Mit dem <a href=\"http://www.parldok.thueringen.de/ParlDok/dokument/73997/thueringer_gesetz_fuer_eine_kommunale_investitionsoffensive_2020_bis_2024_korrigierte_fassung.pdf\">Gesetzesentwurf </a>der Regierungsfraktionen&nbsp;Linke, SPD und Grüne werde die Landesregierung aufgefordert, zusätzliche Haushaltsmittel in den Jahren 2020 bis 2024 in Höhe von 568 Millionen Euro für die Kommunen bereitzustellen.</p>\r\n\r\n<p>Die Regierungsfraktionen stimmten, genau wie die CDU-Fraktion, für den Antrag. Die Mitglieder der AfD-Fraktion enthielten sich ihrer Stimme. Damit wurde der Antrag angenommen.</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/thueringen/7/abstimmungen/gesteigerte-investitionen-in-thueringer-kommunen/tabelle",
+              "http://www.parldok.thueringen.de/ParlDok/dokument/73997/thueringer_gesetz_fuer_eine_kommunale_investitionsoffensive_2020_bis_2024_korrigierte_fassung.pdf"
+            ],
+            "votes": {
+              "276": [
+                29,
+                29,
+                0,
+                0,
+                0
+              ],
+              "277": [
+                22,
+                0,
+                0,
+                18,
+                4
+              ],
+              "278": [
+                21,
+                21,
+                0,
+                0,
+                0
+              ],
+              "279": [
+                8,
+                8,
+                0,
+                0,
+                0
+              ],
+              "280": [
+                5,
+                4,
+                0,
+                0,
+                1
+              ],
+              "281": [
+                5,
+                5,
+                0,
+                0,
+                0
+              ],
+              "total": [
+                90,
+                67,
+                0,
+                18,
+                5
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "name": "Thüringen 2014 - 2019",
+        "polls": [
+          {
+            "id": 1723,
+            "title": "Gemeinsame Schlösser-Stiftung: Thüringen und Sachsen-Anhalt",
+            "date": "2019-09-27",
+            "description": "<p>\r\n\tDer <a class=\"read-more\" href=\"http://www.parldok.thueringen.de/ParlDok/dokument/72286/starke_perspektiven_fuer_thueringer_schloesser_und_gaerten.pdf\">Antrag</a> der Fraktionen- die Linke, SPD und Bündnis 90/die Grünen fordert die Landesregierung zu der Gründung einer länderübergreifenden Mitteldeutschen Schlösser-Stiftung auf, der KMSG. Mit der Gründung der Kulturstiftung Mitteldeutschland Schlösser und Gärten (KMSG) würden beide Länder von mehr Geld für die Erhaltung ihrer Schlösser, Burgen, Klöster und Gärten profitieren, die der Bund bereitstellen würde.\r\n</p>\r\n\r\n<p>\r\n\tDer Antrag wurde mit einer Mehrheit von 44 zu 36 Stimmen <strong>angenommen</strong>. \r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/thueringen/6/abstimmungen/gemeinsame-schloesser-stiftung-thueringen-und-sachsen-anhalt/tabelle",
+              "http://www.parldok.thueringen.de/ParlDok/dokument/72286/starke_perspektiven_fuer_thueringer_schloesser_und_gaerten.pdf"
+            ],
+            "votes": {
+              "83": [
+                6,
+                5,
+                0,
+                0,
+                1
+              ],
+              "84": [
+                34,
+                0,
+                30,
+                0,
+                4
+              ],
+              "88": [
+                12,
+                11,
+                0,
+                0,
+                1
+              ],
+              "89": [
+                28,
+                27,
+                0,
+                0,
+                1
+              ],
+              "93": [
+                7,
+                0,
+                5,
+                0,
+                2
+              ],
+              "130": [
+                4,
+                1,
+                1,
+                0,
+                2
+              ],
+              "total": [
+                91,
+                44,
+                36,
+                0,
+                11
+              ]
+            }
+          },
+          {
+            "id": 1721,
+            "title": "Seenotrettung entkriminalisieren und unterstützen",
+            "date": "2019-09-13",
+            "description": "<p>\r\n\tMit der Annahme des <a href=\"http://www.parldok.thueringen.de/ParlDok/dokument/71282/fuer_ein_europa_der_menschenrechte_thueringen_wird_sicherer_hafen.pdf\">Antrages </a>der Regierungsfraktionen DIE LINKE, SPD und die Grünen fordert der Landtag die Landesregierung auf, sich bei der Bundesregierung für eine Entkriminalisierung und aktive Unterstützung der Seenotrettung stark zu machen.\r\n</p>\r\n\r\n<p>\r\n\tDer Antrag wurde mit den Stimmen der Regierungsfraktionen angenommen.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/thueringen/6/abstimmungen/seenotrettung-entkriminalisieren-und-unterstuetzen/tabelle",
+              "http://www.parldok.thueringen.de/ParlDok/dokument/71282/fuer_ein_europa_der_menschenrechte_thueringen_wird_sicherer_hafen.pdf"
+            ],
+            "votes": {
+              "83": [
+                6,
+                6,
+                0,
+                0,
+                0
+              ],
+              "84": [
+                34,
+                0,
+                27,
+                0,
+                7
+              ],
+              "88": [
+                12,
+                10,
+                0,
+                0,
+                2
+              ],
+              "89": [
+                28,
+                25,
+                0,
+                0,
+                3
+              ],
+              "93": [
+                7,
+                0,
+                6,
+                0,
+                1
+              ],
+              "130": [
+                4,
+                0,
+                0,
+                0,
+                4
+              ],
+              "total": [
+                91,
+                41,
+                33,
+                0,
+                17
+              ]
+            }
+          },
+          {
+            "id": 1693,
+            "title": "Einführung eines Paritätsgesetzes",
+            "date": "2019-07-05",
+            "description": "<p>\r\n\tDie rot-rot-grüne Regierungskoalition fordert in ihrem <a href=\"http://www.parldok.thueringen.de/ParlDok/dokument/70445/siebtes_gesetz_zur_aenderung_des_thueringer_landeswahlgesetzes_einfuehrung_der_paritaetischen_quotierung.pdf\" target=\"_blank\">Antrag </a>eine Änderung des Landeswahlgesetzes. Die Änderung sieht eine paritätische Besetzung der Landeslisten vor, also jeweils zu 50% Frauen und Männer. Die Koalitionsfraktionen stimmten nahezu geschlossen <strong>für </strong>den Antrag. AfD und CDU <strong>lehnten </strong>diesen geschlossen ab. \r\n</p>\r\n\r\n<p>\r\n\tDer Antrag wurde mehrheitlich <strong>angenommen</strong>.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/thueringen/6/abstimmungen/einfuehrung-eines-paritaetsgesetzes/tabelle",
+              "http://www.parldok.thueringen.de/ParlDok/dokument/70445/siebtes_gesetz_zur_aenderung_des_thueringer_landeswahlgesetzes_einfuehrung_der_paritaetischen_quotierung.pdf"
+            ],
+            "votes": {
+              "83": [
+                5,
+                5,
+                0,
+                0,
+                0
+              ],
+              "84": [
+                34,
+                0,
+                29,
+                0,
+                5
+              ],
+              "88": [
+                12,
+                11,
+                1,
+                0,
+                0
+              ],
+              "89": [
+                28,
+                26,
+                0,
+                0,
+                2
+              ],
+              "93": [
+                7,
+                0,
+                6,
+                0,
+                1
+              ],
+              "130": [
+                4,
+                0,
+                1,
+                0,
+                3
+              ],
+              "total": [
+                90,
+                42,
+                37,
+                0,
+                11
+              ]
+            }
+          },
+          {
+            "id": 1634,
+            "title": "Sportfördergesetz",
+            "date": "2018-11-07",
+            "description": "<p>\r\n\tDer <a href=\"http://www.parldok.thueringen.de/ParlDok/dokument/61782/thueringer_sportfoerdergesetz_thuersportfg.pdf\" target=\"_blank\">Gesetzentwurf</a> der rot-rot-grünen Koalition sieht vor, dass Sport-und Spielanlagen und auch Sportorganisationen gefördert und finanziell entlastet werden sollen. \r\n</p>\r\n\r\n<p>\r\n\tDie Abgeordneten stimmten mehrheitlich <strong>für</strong> den Antrag. Die Oppositionsfraktionen CDU und AfD<strong> enthielten</strong> sich. Lediglich die CDU-Abgeordnete <a class=\"link-profile\" href=\"https://www.abgeordnetenwatch.de/profile/gudrun-holbe\" target=\"_blank\">Gudrun Holbe</a> stimmte dem Gesetzentwurf zu.\r\n</p>\r\n\r\n<p>\r\n\tSomit wurde dieser <strong>angenommen</strong>. \r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/thueringen/6/abstimmungen/sportfoerdergesetz/tabelle",
+              "https://www.dosb.de/sonderseiten/news/news-detail/news/neues-sportfoerdergesetz-fuer-den-thueringer-sport/?no_cache=1&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Baction%5D=detail&cHash=dd4ca78467b6022cad0847b933ccb37e"
+            ],
+            "votes": {
+              "83": [
+                5,
+                5,
+                0,
+                0,
+                0
+              ],
+              "84": [
+                34,
+                1,
+                0,
+                22,
+                11
+              ],
+              "88": [
+                12,
+                10,
+                0,
+                0,
+                2
+              ],
+              "89": [
+                28,
+                27,
+                0,
+                0,
+                1
+              ],
+              "93": [
+                8,
+                0,
+                0,
+                6,
+                2
+              ],
+              "130": [
+                3,
+                0,
+                0,
+                0,
+                3
+              ],
+              "total": [
+                90,
+                43,
+                0,
+                28,
+                19
+              ]
+            }
+          },
+          {
+            "id": 1131,
+            "title": "Mindestabstand für Windkraftanlagen",
+            "date": "2015-03-26",
+            "description": "<p>\r\n\tIm Rahmen der Energiewende hat der Landtag einen CDU-Antrag zu Abstandskriterien für Windkraftanlagen in Thüringen abgelehnt. Darin hatte die CDU gefordert höhenbezogene Mindestabstände zur Wohnbebauung als Voraussetzung für eine Privilegierung einzuführen.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/thueringen/6/abstimmungen/mindestabstand-fuer-windkraftanlagen/tabelle"
+            ],
+            "votes": {
+              "83": [
+                6,
+                0,
+                6,
+                0,
+                0
+              ],
+              "84": [
+                34,
+                33,
+                0,
+                0,
+                1
+              ],
+              "88": [
+                12,
+                0,
+                11,
+                0,
+                1
+              ],
+              "89": [
+                28,
+                0,
+                28,
+                0,
+                0
+              ],
+              "93": [
+                9,
+                9,
+                0,
+                0,
+                0
+              ],
+              "130": [
+                2,
+                2,
+                0,
+                0,
+                0
+              ],
+              "total": [
+                91,
+                44,
+                45,
+                0,
+                2
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Brandenburg",
+    "periods": [
+      {
+        "id": 120,
+        "name": "Brandenburg 2019 - 2024",
+        "polls": [
+          {
+            "id": 4166,
+            "title": "Mietpreisbremse fortsetzen und ausweiten",
+            "date": "2021-02-24",
+            "description": "<p>Mit ihrem <a href=\"https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/drs/ab_3000/3012.pdf\">Antrag</a> fordert die Fraktion DIE LINKE dazu auf, die zurzeit geltende Mietpreisbremse weiter fortzusetzen und zusätzlich zu erweitern. Grund dafür ist, dass die Mietpreisbremse laut Plänen des Ministeriums nur noch für weit weniger Gemeinden gelten soll, als es bisher der Fall war.&nbsp;</p>\r\n\r\n<p>Die Fraktionen DIE LINKE und BVB - FREIE WÄHLER stimmten für den Antrag, während die Fraktionen CDU, SPD, AfD und DIE GRÜNEN dagegen&nbsp;stimmten.</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/abstimmungen/mietpreisbremse-fortsetzen-und-ausweiten/tabelle",
+              "https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/drs/ab_3000/3012.pdf"
+            ],
+            "votes": {
+              "263": [
+                23,
+                0,
+                20,
+                0,
+                3
+              ],
+              "270": [
+                5,
+                5,
+                0,
+                0,
+                0
+              ],
+              "271": [
+                24,
+                0,
+                19,
+                0,
+                5
+              ],
+              "272": [
+                10,
+                8,
+                0,
+                0,
+                2
+              ],
+              "273": [
+                15,
+                0,
+                12,
+                0,
+                3
+              ],
+              "274": [
+                10,
+                0,
+                10,
+                0,
+                0
+              ],
+              "298": [
+                1,
+                0,
+                0,
+                0,
+                1
+              ],
+              "total": [
+                88,
+                13,
+                61,
+                0,
+                14
+              ]
+            }
+          },
+          {
+            "id": 4161,
+            "title": "Die AfD will direkten und indirekten Impfzwang ausschließen",
+            "date": "2021-03-04",
+            "description": "<p>Mit ihrem Entschließungsantrag will die AfD-Fraktion einer&nbsp;Bevorteilung der geimpften Bevölkerung entgegenwirken und somit einen Impfzwang direkter und indirekter Art&nbsp;ausschließen.</p>\r\n\r\n<p>Die AfD stimmte für den Antrag, die Fraktionen CDU, SPD, BVB/FREIE WÄHLER, DIE LINKE und B90/GRÜNE stimmten geschlossen dagegen.</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/abstimmungen/die-afd-will-direkten-und-indirekten-impfzwang-ausschliessen/tabelle",
+              "https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/drs/ab_3100/3119.pdf"
+            ],
+            "votes": {
+              "263": [
+                23,
+                16,
+                0,
+                0,
+                7
+              ],
+              "270": [
+                5,
+                0,
+                4,
+                0,
+                1
+              ],
+              "271": [
+                24,
+                0,
+                16,
+                0,
+                8
+              ],
+              "272": [
+                10,
+                0,
+                8,
+                0,
+                2
+              ],
+              "273": [
+                15,
+                0,
+                10,
+                0,
+                5
+              ],
+              "274": [
+                10,
+                0,
+                9,
+                0,
+                1
+              ],
+              "298": [
+                1,
+                0,
+                0,
+                0,
+                1
+              ],
+              "total": [
+                88,
+                16,
+                47,
+                0,
+                25
+              ]
+            }
+          },
+          {
+            "id": 4160,
+            "title": "Sollen Windenergieanlagen in Wäldern verboten werden?",
+            "date": "2021-01-27",
+            "description": "<p>Der Landtag Brandenburg stimmt über einen <a class=\"link-read-more\" href=\"https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/drs/ab_2800/2836.pdf\">Gesetzentwurf </a>der Fraktion BVB/Freie Wähler ab, durch welchen die Errichtung von Windenergieanlagen in Wäldern verboten werden soll.</p>\r\n\r\n<p>Der Entwurf wurde&nbsp;mit 57 Stimmen der Fraktionen der CDU, SPD, Die Linke und Bündnis90/Die Grünen abgelehnt. Für das Gesetz stimmten lediglich&nbsp;die Fraktion der BVB/Freie Wähler und die Fraktion der AfD. Zudem gab es 17 Enthaltungen.</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/abstimmungen/sollen-windenergieanlagen-in-waeldern-verboten-werden/tabelle",
+              "https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/drs/ab_2800/2836.pdf"
+            ],
+            "votes": {
+              "263": [
+                23,
+                14,
+                0,
+                9,
+                0
+              ],
+              "270": [
+                5,
+                4,
+                0,
+                1,
+                0
+              ],
+              "271": [
+                24,
+                0,
+                21,
+                3,
+                0
+              ],
+              "272": [
+                10,
+                0,
+                9,
+                1,
+                0
+              ],
+              "273": [
+                15,
+                0,
+                13,
+                2,
+                0
+              ],
+              "274": [
+                10,
+                0,
+                10,
+                0,
+                0
+              ],
+              "298": [
+                1,
+                0,
+                0,
+                1,
+                0
+              ],
+              "total": [
+                88,
+                18,
+                53,
+                17,
+                0
+              ]
+            }
+          },
+          {
+            "id": 4115,
+            "title": " \"Minority SafePack\"-Initiative muss weiterhin Gegenstand europäischer Politik sein",
+            "date": "2021-03-24",
+            "description": "<p>Der Landtag in Brandenburg stimmt über den <a class=\"link-read-more\" href=\"https://www.parlamentsdokumentation.brandenburg.de/parladoku/w7/drs/ab_3100/3143.pdf\">Antrag </a>der Fraktion Die Linke und der BVB/Freie Wähler Fraktion ab. In ihrem Antrag fordern die Fraktionen, dass die europäische Bürgerinitiative \"Minority Safepack\" weiterhin&nbsp;Gegenstand der EU-Politik sein muss. Die Initiative, welche für die Sicherheit von Minderheiten und den Schutz ihrer Kulturen und Sprachen kämpft, erhielt große Unterstützung von Seiten der EU-Bürger:innen und Staaten, jedoch aber Ablehnung von der EU-Kommission.</p>\r\n\r\n<p>Der Landtag lehnte den Antrag in namentlicher Abstimmung mit 12 Ja-Stimmen, 53 Nein-Stimmen und einer Stimmenthaltung ab.</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/abstimmungen/minority-safepack-initiative-muss-weiterhin-gegenstand-europaeischer-politik-sein/tabelle",
+              "https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w7/plpr/39.pdf#page="
+            ],
+            "votes": {
+              "263": [
+                23,
+                0,
+                16,
+                0,
+                7
+              ],
+              "270": [
+                5,
+                5,
+                0,
+                0,
+                0
+              ],
+              "271": [
+                24,
+                0,
+                18,
+                0,
+                6
+              ],
+              "272": [
+                10,
+                7,
+                0,
+                0,
+                3
+              ],
+              "273": [
+                15,
+                0,
+                11,
+                0,
+                4
+              ],
+              "274": [
+                10,
+                0,
+                8,
+                1,
+                1
+              ],
+              "298": [
+                1,
+                0,
+                0,
+                0,
+                1
+              ],
+              "total": [
+                88,
+                12,
+                53,
+                1,
+                22
+              ]
+            }
+          },
+          {
+            "id": 3591,
+            "title": " Erhöhung des Mindestlohns für öffentliche Aufträge",
+            "date": "2020-01-22",
+            "description": "<p>Das Parlament fordert die Landesregierung auf, dem Mindestlohn für öffentliche Aufträge von 10,68€ auf 13€/Stunde zu erhöhen. Die Regierung soll hierfür bis zum Ende des 3. Quartals 2020 einen Gesetzesentwurf vorlegen.</p>\r\n\r\n<p>Die Regierungsfraktionen CDU, SPD und Grüne sowie die BVB/FW-Fraktion stimmten dem <a href=\"https://www.parlamentsdokumentation.brandenburg.de/parladoku/w7/drs/ab_0400/474.pdf\">Antrag</a> zu. Er wurde somit angenommen. Die anwesenden Abgeordneten der oppositionellen Fraktionen AfD und Linkspartei enthielten sich ihrer Stimme.</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/brandenburg/7/abstimmungen/erhoehung-des-mindestlohns-fuer-oeffentliche-auftraege/tabelle",
+              "https://www.parlamentsdokumentation.brandenburg.de/parladoku/w7/drs/ab_0400/474.pdf"
+            ],
+            "votes": {
+              "263": [
+                23,
+                0,
+                0,
+                20,
+                3
+              ],
+              "270": [
+                5,
+                5,
+                0,
+                0,
+                0
+              ],
+              "271": [
+                25,
+                22,
+                0,
+                0,
+                3
+              ],
+              "272": [
+                10,
+                0,
+                0,
+                9,
+                1
+              ],
+              "273": [
+                15,
+                14,
+                0,
+                0,
+                1
+              ],
+              "274": [
+                10,
+                7,
+                0,
+                0,
+                3
+              ],
+              "total": [
+                88,
+                48,
+                0,
+                29,
+                11
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Brandenburg 2014 - 2019",
+        "polls": [
+          {
+            "id": 1295,
+            "title": "Stärkung der ländlichen Regionen",
+            "date": "2017-12-15",
+            "description": "<p>\r\n\tDer <a href=\"https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w6/drs/ab_7700/7725.pdf\" target=\"_blank\">Antrag</a> der AfD-Fraktion wurde mit den Stimmen von SPD und Linken abgelehnt. Für den Antrag stimmten die AfD und die CDU, während sich die Grüne geschlossen enthielt.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/brandenburg/6/abstimmungen/staerkung-der-laendlichen-regionen/tabelle"
+            ],
+            "votes": {
+              "21": [
+                21,
+                17,
+                0,
+                0,
+                4
+              ],
+              "62": [
+                30,
+                0,
+                25,
+                0,
+                5
+              ],
+              "64": [
+                4,
+                2,
+                0,
+                0,
+                2
+              ],
+              "66": [
+                6,
+                0,
+                0,
+                5,
+                1
+              ],
+              "69": [
+                17,
+                0,
+                16,
+                0,
+                1
+              ],
+              "85": [
+                10,
+                6,
+                1,
+                0,
+                3
+              ],
+              "total": [
+                88,
+                25,
+                42,
+                5,
+                16
+              ]
+            }
+          },
+          {
+            "id": 1271,
+            "title": "Schallschutz am BER",
+            "date": "2017-05-17",
+            "description": "<p>\r\n\tDer brandenburgische Landtag hat den <a href=\"https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w6/drs/ab_6500/6563.pdf\" target=\"_blank\">Antrag</a> von <a class=\"link-profile\" href=\"https://www.abgeordnetenwatch.de/profile/christoph-schulze\" target=\"_blank\">Christoph Schulze</a> (BVB/FREIE WÄHLER Gruppe) namentlich abgestimmt und mit den Gegenstimmen von SPD, CDU, Linke und den Grünen abgelehnt.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/brandenburg/6/abstimmungen/schallschutz-am-ber/tabelle"
+            ],
+            "votes": {
+              "21": [
+                21,
+                0,
+                14,
+                0,
+                7
+              ],
+              "62": [
+                30,
+                0,
+                26,
+                0,
+                4
+              ],
+              "63": [
+                3,
+                3,
+                0,
+                0,
+                0
+              ],
+              "64": [
+                1,
+                1,
+                0,
+                0,
+                0
+              ],
+              "66": [
+                6,
+                0,
+                3,
+                0,
+                3
+              ],
+              "69": [
+                17,
+                0,
+                16,
+                0,
+                1
+              ],
+              "85": [
+                10,
+                9,
+                0,
+                0,
+                1
+              ],
+              "total": [
+                88,
+                13,
+                59,
+                0,
+                16
+              ]
+            }
+          },
+          {
+            "id": 1259,
+            "title": "Volksinitiative zur Kreisgebietsreform",
+            "date": "2017-05-18",
+            "description": "<p>\r\n\tDie <a href=\"https://www.parlamentsdokumentation.brandenburg.de/starweb/LBB/ELVIS/parladoku/w6/drs/ab_6600/6606.pdf\" target=\"_blank\">Beschlussempfehlung</a> des Hauptausschusses wurde mit den Stimmen von SPD, Linken und Grünen angenommen. Darin wird empfohlen die Forderung der Volksinitiative <strong>„Bürgernähe erhalten - Kreisreform stoppen“ </strong>abzulehnen.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/brandenburg/6/abstimmungen/volksinitiative-zur-kreisgebietsreform/tabelle"
+            ],
+            "votes": {
+              "21": [
+                21,
+                0,
+                20,
+                0,
+                1
+              ],
+              "62": [
+                30,
+                27,
+                0,
+                1,
+                2
+              ],
+              "63": [
+                3,
+                0,
+                3,
+                0,
+                0
+              ],
+              "64": [
+                1,
+                0,
+                1,
+                0,
+                0
+              ],
+              "66": [
+                6,
+                5,
+                0,
+                0,
+                1
+              ],
+              "69": [
+                17,
+                16,
+                0,
+                0,
+                1
+              ],
+              "85": [
+                10,
+                0,
+                10,
+                0,
+                0
+              ],
+              "total": [
+                88,
+                48,
+                34,
+                1,
+                5
+              ]
+            }
+          },
+          {
+            "id": 1178,
+            "title": "Änderung des Brandenburgischen Schulgesetzes",
+            "date": "2015-03-19",
+            "description": "<p>\r\n\tDer Landtag lehnte den Gesetzentwurf \"Fünftes Gesetz zur Änderung des Brandenburgischen Schulgesetzes\" der CDU in namentlicher Abstimmung mit 32 Jastimmen, 45 Neinstimmen und 3 Stimmenthaltungen ab.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/brandenburg/6/abstimmungen/aenderung-des-brandenburgischen-schulgesetzes/tabelle"
+            ],
+            "votes": {
+              "21": [
+                21,
+                15,
+                0,
+                0,
+                6
+              ],
+              "62": [
+                30,
+                0,
+                29,
+                0,
+                1
+              ],
+              "63": [
+                3,
+                3,
+                0,
+                0,
+                0
+              ],
+              "64": [
+                1,
+                1,
+                0,
+                0,
+                0
+              ],
+              "66": [
+                6,
+                3,
+                0,
+                0,
+                3
+              ],
+              "69": [
+                17,
+                0,
+                16,
+                0,
+                1
+              ],
+              "85": [
+                10,
+                8,
+                0,
+                0,
+                2
+              ],
+              "total": [
+                88,
+                30,
+                45,
+                0,
+                13
+              ]
+            }
+          },
+          {
+            "id": 1176,
+            "title": "Volksbegehren gegen Massentierhaltung",
+            "date": "2015-04-19",
+            "description": "<p>\r\n\tDer Landtag nahm die Beschlussempfehlung mit 69 Jastimmen, 3 Neinstimmen und 9 Stimmenthaltungen an\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/brandenburg/6/abstimmungen/volksbegehren-gegen-massentierhaltung/tabelle"
+            ],
+            "votes": {
+              "21": [
+                21,
+                20,
+                0,
+                0,
+                1
+              ],
+              "62": [
+                30,
+                25,
+                0,
+                1,
+                4
+              ],
+              "63": [
+                3,
+                0,
+                2,
+                0,
+                1
+              ],
+              "64": [
+                1,
+                0,
+                0,
+                1,
+                0
+              ],
+              "66": [
+                6,
+                0,
+                0,
+                5,
+                1
+              ],
+              "69": [
+                17,
+                14,
+                0,
+                0,
+                3
+              ],
+              "85": [
+                10,
+                7,
+                1,
+                2,
+                0
+              ],
+              "total": [
+                88,
+                66,
+                3,
+                9,
+                10
+              ]
+            }
+          },
+          {
+            "id": 1175,
+            "title": "Entwurf für eine Verwaltungsstrukturreform 2019",
+            "date": "2016-07-13",
+            "description": "<p>\r\n\tDer Antrag wurde unter Zustimmung der Regierungsparteien SPD gegen die Stimmen von AfD und CDU angenommen. Die Grünen stimmten mit einer Enthaltung.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/brandenburg/6/abstimmungen/entwurf-fuer-eine-verwaltungsstrukturreform-2019/tabelle"
+            ],
+            "votes": {
+              "21": [
+                21,
+                0,
+                21,
+                0,
+                0
+              ],
+              "62": [
+                30,
+                29,
+                0,
+                1,
+                0
+              ],
+              "63": [
+                3,
+                0,
+                3,
+                0,
+                0
+              ],
+              "64": [
+                1,
+                0,
+                1,
+                0,
+                0
+              ],
+              "66": [
+                6,
+                0,
+                0,
+                5,
+                1
+              ],
+              "69": [
+                17,
+                16,
+                0,
+                1,
+                0
+              ],
+              "85": [
+                10,
+                0,
+                10,
+                0,
+                0
+              ],
+              "total": [
+                88,
+                45,
+                35,
+                7,
+                1
+              ]
+            }
+          },
+          {
+            "id": 1174,
+            "title": "Einführung eines \"Schutzparagraph 112\"",
+            "date": "2015-04-30",
+            "description": "<p>\r\n\tDer Landtag lehnte den Antrag in namentlicher Abstimmung mit 35 Jastimmen und 46 Neinstimmen ab.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/brandenburg/6/abstimmungen/einfuehrung-eines-schutzparagraph-112/tabelle"
+            ],
+            "votes": {
+              "21": [
+                21,
+                21,
+                0,
+                0,
+                0
+              ],
+              "62": [
+                30,
+                0,
+                24,
+                0,
+                6
+              ],
+              "63": [
+                3,
+                3,
+                0,
+                0,
+                0
+              ],
+              "64": [
+                1,
+                1,
+                0,
+                0,
+                0
+              ],
+              "66": [
+                6,
+                0,
+                6,
+                0,
+                0
+              ],
+              "69": [
+                17,
+                0,
+                16,
+                0,
+                1
+              ],
+              "85": [
+                10,
+                10,
+                0,
+                0,
+                0
+              ],
+              "total": [
+                88,
+                35,
+                46,
+                0,
+                7
+              ]
+            }
+          },
+          {
+            "id": 1173,
+            "title": "Keine Inbetriebnahme des BER ohne vollständigen Schallschutz",
+            "date": "2015-03-18",
+            "description": "<p>\r\n\tDer Landtag lehnte den Antrag mit 18 Jastimmen und 62 Neinstimmen ab.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/brandenburg/6/abstimmungen/keine-inbetriebnahme-des-ber-ohne-vollstaendigen-schallschutz/tabelle"
+            ],
+            "votes": {
+              "21": [
+                21,
+                1,
+                15,
+                0,
+                5
+              ],
+              "62": [
+                30,
+                0,
+                30,
+                0,
+                0
+              ],
+              "63": [
+                3,
+                3,
+                0,
+                0,
+                0
+              ],
+              "64": [
+                1,
+                1,
+                0,
+                0,
+                0
+              ],
+              "66": [
+                6,
+                6,
+                0,
+                0,
+                0
+              ],
+              "69": [
+                17,
+                0,
+                16,
+                0,
+                1
+              ],
+              "85": [
+                10,
+                8,
+                0,
+                0,
+                2
+              ],
+              "total": [
+                88,
+                19,
+                61,
+                0,
+                8
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Sachsen",
+    "periods": [
+      {
+        "id": 100,
+        "name": "Sachsen 2014 - 2019",
+        "polls": [
+          {
+            "id": 1682,
+            "title": "Neustrukturierung des Polizeirechtes in Sachsen",
+            "date": "2019-04-10",
+            "description": "<p>\r\n\tDer sächsische Landtag stimmte über die <a href=\"http://edas.landtag.sachsen.de/viewer.aspx?dok_nr=17260&dok_art=Drs&leg_per=6&pos_dok=0&dok_id=\" target=\"_blank\">Beschlussempfehlung</a> des Innenausschusses ab. Dieser empfiehlt, den Gesetzentwurf zur Novellierung des Polizeigesetzes in Sachsen anzunehmen. Die Erneuerung soll der Polizei mehr Befugnisse zur vorbeugenden Bekämpfung von Terrorismus und grenzüberschreitender Kriminalität erlauben. \r\n</p>\r\n\r\n<hr>\r\n<p>\r\n\tDie schwarz-rote Koalition, wie auch die fraktionslosen Abgeordneten stimmten einheitlich <strong>für</strong> die Beschlussempfehlung. Enthaltungen gab es aus den Reihen der AfD. Linke und Grüne stimmten geschlossen<strong> gegen</strong> die Neustrukturierung. \r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/6/abstimmungen/neustrukturierung-des-polizeirechtes-sachsen/tabelle",
+              "http://edas.landtag.sachsen.de/viewer.aspx?dok_nr=17260&dok_art=Drs&leg_per=6&pos_dok=0&dok_id="
+            ],
+            "votes": {
+              "55": [
+                59,
+                54,
+                0,
+                0,
+                5
+              ],
+              "76": [
+                8,
+                0,
+                8,
+                0,
+                0
+              ],
+              "77": [
+                27,
+                0,
+                26,
+                0,
+                1
+              ],
+              "80": [
+                18,
+                16,
+                0,
+                1,
+                1
+              ],
+              "86": [
+                9,
+                0,
+                0,
+                8,
+                1
+              ],
+              "87": [
+                5,
+                4,
+                0,
+                0,
+                1
+              ],
+              "total": [
+                126,
+                74,
+                34,
+                9,
+                9
+              ]
+            }
+          },
+          {
+            "id": 1651,
+            "title": "Demokratische Regeln respektieren",
+            "date": "2019-01-31",
+            "description": "<p>\r\n\tDer <a href=\"http://edas.landtag.sachsen.de/viewer.aspx?dok_nr=16395&dok_art=Drs&leg_per=6&pos_dok=0&dok_id=undefined\" target=\"_blank\">Antrag</a> der AfD-Fraktion fordert den Landtag auf, politisch motivierte Gewalt zu verurteilen. \r\n</p>\r\n\r\n<p>\r\n\tAlle Fraktionen stimmten<strong> gegen</strong> den Antrag. Lediglich Mitglieder der Blauen und der AfD stimmten <strong>für</strong> diesen. Somit wurde der Antrag <strong>abgelehnt</strong>.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/6/abstimmungen/demokratische-regeln-respektieren/tabelle"
+            ],
+            "votes": {
+              "55": [
+                59,
+                0,
+                51,
+                0,
+                8
+              ],
+              "76": [
+                8,
+                0,
+                6,
+                0,
+                2
+              ],
+              "77": [
+                27,
+                0,
+                23,
+                0,
+                4
+              ],
+              "80": [
+                18,
+                0,
+                16,
+                0,
+                2
+              ],
+              "86": [
+                9,
+                9,
+                0,
+                0,
+                0
+              ],
+              "87": [
+                5,
+                4,
+                0,
+                0,
+                1
+              ],
+              "total": [
+                126,
+                13,
+                96,
+                0,
+                17
+              ]
+            }
+          },
+          {
+            "id": 1595,
+            "title": "UN-Migrationspakt: Entschließungsantrag der AfD-Fraktion",
+            "date": "2018-11-07",
+            "description": "<p>\r\n\tIm <a href=\"http://edas.landtag.sachsen.de/viewer.aspx?dok_nr=15210&dok_art=Drs&leg_per=6&pos_dok=0&dok_id=undefined\" target=\"_blank\">Entschließungsantrag </a>mit dem Titel <em>\"Global Compact for Migration stoppen - Wirtschaftsimmigration ist kein Menschenrecht\"</em> vom 29.10.2018 fordert die AfD-Fraktion den Sächsischen Landtag auf, den geplanten <a href=\"http://www.un.org/depts/german/migration/A.CONF.231.3.pdf\" target=\"_blank\">UN-Migrationspakt</a> politisch abzulehnen, um die Bundesregierung davon abzuhalten, den Migrationspakt im Dezember anzunehmen. Am 07. November 2018 wurde nun von den Sächsischen Abgeordneten darüber abgestimmt - mit 97 von 109 abgegebenen Stimmen wurde der Antrag der AfD abgelehnt. Alle Fraktionen, ausgenommen der AfD-Fraktion, haben den Entschließungsantrag abgelehnt.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/6/abstimmungen/un-migrationspakt-entschliessungsantrag-der-afd-fraktion/tabelle"
+            ],
+            "votes": {
+              "55": [
+                59,
+                0,
+                49,
+                0,
+                10
+              ],
+              "76": [
+                8,
+                0,
+                7,
+                0,
+                1
+              ],
+              "77": [
+                27,
+                0,
+                23,
+                0,
+                4
+              ],
+              "80": [
+                18,
+                0,
+                18,
+                0,
+                0
+              ],
+              "86": [
+                9,
+                9,
+                0,
+                0,
+                0
+              ],
+              "87": [
+                5,
+                3,
+                0,
+                0,
+                2
+              ],
+              "total": [
+                126,
+                12,
+                97,
+                0,
+                17
+              ]
+            }
+          },
+          {
+            "id": 1583,
+            "title": "Gesetz zur Förderung des Klimaschutzes in Sachsen ",
+            "date": "2018-09-05",
+            "description": "<p>\r\n\tAm 5. September 2018 wurde im Sächsischen Landtag über einen<a href=\"https://www.gruene-fraktion-sachsen.de/fileadmin/user_upload/Gesetzentwuerfe/6_Drs_3024_0_1_1_.pdf\" target=\"_blank\"> Gesetzentwurf zur Förderung des Klimaschutzes in Sachsen </a>abgestimmt. Dieser besagt, dass die Treibhausgasemissionen pro Kopf und Jahr mittelfristig zumindest auf den nationalen Durchschnitt sinken sollen. Die Beschlussempfehlung des Ausschusses für Wirtschaft, Arbeit und Verkehr empfahl, den Gesetzentwurf abzulehnen.\r\n</p>\r\n\r\n<p>\r\n\tVon den 126 Abgeordneten stimmten 30 MdL zu und 85 Abgeordnete lehnten den Gesetzentwurf ab, weshalb dieser insgesamt abgelehnt wurde. Die Zustimmungen stammen von den GRÜNEN und der LINKEN, abgelehnt wurde von Christ- und Sozialdemokraten sowie von der AfD.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/6/abstimmungen/gesetz-zur-foerderung-des-klimaschutzes-sachsen/tabelle"
+            ],
+            "votes": {
+              "55": [
+                59,
+                0,
+                54,
+                0,
+                5
+              ],
+              "76": [
+                8,
+                7,
+                0,
+                0,
+                1
+              ],
+              "77": [
+                27,
+                23,
+                0,
+                0,
+                4
+              ],
+              "80": [
+                18,
+                0,
+                17,
+                0,
+                1
+              ],
+              "86": [
+                9,
+                0,
+                9,
+                0,
+                0
+              ],
+              "87": [
+                5,
+                0,
+                5,
+                0,
+                0
+              ],
+              "total": [
+                126,
+                30,
+                85,
+                0,
+                11
+              ]
+            }
+          },
+          {
+            "id": 1215,
+            "title": "Früherer Renteneintritt für sächsische Bergleute",
+            "date": "2017-02-01",
+            "description": "<p>\r\n\tDie Linksfraktion hat den Landtag zur Herstellung der Rentengerechtigkeit für sächsische Bergleute aufgefordert. Mehr als zwei Drittel der Abgeordneten stimmten gegen den Antrag.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/6/abstimmungen/frueherer-renteneintritt-fuer-saechsische-bergleute/tabelle"
+            ],
+            "votes": {
+              "55": [
+                59,
+                1,
+                53,
+                0,
+                5
+              ],
+              "76": [
+                8,
+                8,
+                0,
+                0,
+                0
+              ],
+              "77": [
+                27,
+                23,
+                1,
+                0,
+                3
+              ],
+              "80": [
+                18,
+                0,
+                17,
+                0,
+                1
+              ],
+              "86": [
+                14,
+                0,
+                0,
+                13,
+                1
+              ],
+              "total": [
+                126,
+                32,
+                71,
+                13,
+                10
+              ]
+            }
+          },
+          {
+            "id": 1214,
+            "title": "Verfassungsänderung zur Volksgesetzgebung",
+            "date": "2016-12-13",
+            "description": "<p>\r\n\tDie AfD ist mit ihrem Antrag für eine Verfassungsänderung zur Volksgesetzgebung gescheitert. Aus der Linksfraktion gab es zahlreiche Enthaltungen, von den übrigen Abgeordneten wurde der Antrag abgelehnt.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/6/abstimmungen/verfassungsaenderung-zur-volksgesetzgebung/tabelle"
+            ],
+            "votes": {
+              "55": [
+                59,
+                0,
+                57,
+                0,
+                2
+              ],
+              "76": [
+                8,
+                0,
+                8,
+                0,
+                0
+              ],
+              "77": [
+                27,
+                0,
+                11,
+                16,
+                0
+              ],
+              "80": [
+                18,
+                0,
+                18,
+                0,
+                0
+              ],
+              "86": [
+                14,
+                14,
+                0,
+                0,
+                0
+              ],
+              "total": [
+                126,
+                14,
+                94,
+                16,
+                2
+              ]
+            }
+          },
+          {
+            "id": 1187,
+            "title": "Absenkung der Quoren für Volksbegehren",
+            "date": "2016-08-31",
+            "description": "<p>\r\n\tDer Gesetzesentwurf zur Absenkung der Quoren für die Einreichung eines Volksantrages und Volksbegehrens wurde von der Mehrheit des sächsischen Parlamentes abgelehnt.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/6/abstimmungen/absenkung-der-quoren-fuer-volksbegehren/tabelle"
+            ],
+            "votes": {
+              "55": [
+                59,
+                0,
+                56,
+                0,
+                3
+              ],
+              "76": [
+                8,
+                8,
+                0,
+                0,
+                0
+              ],
+              "77": [
+                27,
+                23,
+                0,
+                0,
+                4
+              ],
+              "80": [
+                18,
+                0,
+                16,
+                0,
+                2
+              ],
+              "86": [
+                14,
+                0,
+                12,
+                0,
+                2
+              ],
+              "total": [
+                126,
+                31,
+                84,
+                0,
+                11
+              ]
+            }
+          },
+          {
+            "id": 1186,
+            "title": "Bewältigung des Strukturwandels in der Braunkohleförderung",
+            "date": "2016-06-22",
+            "description": "<p>\r\n\tDer Gesetzesentwurf der Fraktion Die Linke zur Bewältigung des Strukturwandels in den von Braunkohleabbau und -verstromung geprägten Regionen in Sachsen wurde abgelehnt.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/6/abstimmungen/bewaeltigung-des-strukturwandels-der-braunkohlefoerderung/tabelle"
+            ],
+            "votes": {
+              "55": [
+                59,
+                0,
+                57,
+                0,
+                2
+              ],
+              "76": [
+                8,
+                0,
+                0,
+                8,
+                0
+              ],
+              "77": [
+                27,
+                22,
+                0,
+                0,
+                5
+              ],
+              "80": [
+                18,
+                0,
+                17,
+                0,
+                1
+              ],
+              "86": [
+                14,
+                0,
+                14,
+                0,
+                0
+              ],
+              "total": [
+                126,
+                22,
+                88,
+                8,
+                8
+              ]
+            }
+          },
+          {
+            "id": 1185,
+            "title": "Reaktion auf Clausnitz und Bautzen",
+            "date": "2016-02-29",
+            "description": "<p>\r\n\tDer Antrag der Fraktionen DIE LINKE und BÜNDNIS 90/DIE GRÜNEN \"Nach Clausnitz und Bautzen: Bedauern reicht nicht, die Staatsregierung muss endlich aufwachen – Haltung zeigen, Zivilgesellschaft unterstützen, demokratischen Rechtsstaat stärken\" wurde nicht angenommen.\r\n</p>\r\n",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/6/abstimmungen/reaktion-auf-clausnitz-und-bautzen/tabelle"
+            ],
+            "votes": {
+              "55": [
+                59,
+                0,
+                55,
+                0,
+                4
+              ],
+              "76": [
+                8,
+                7,
+                0,
+                0,
+                1
+              ],
+              "77": [
+                27,
+                26,
+                0,
+                0,
+                1
+              ],
+              "80": [
+                18,
+                0,
+                17,
+                0,
+                1
+              ],
+              "86": [
+                14,
+                0,
+                12,
+                0,
+                2
+              ],
+              "total": [
+                126,
+                33,
+                84,
+                0,
+                9
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "name": "Sachsen 2009 - 2014",
+        "polls": [
+          {
+            "id": 1028,
+            "title": "Stärkung der Studierendenschaft an Universitäten",
+            "date": "2012-09-26",
+            "description": "Ein Antrag der SPD, Grünen und der Linken auf Gesetzesänderung im Hochschulgesetz wurde abgelehnt.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/5/abstimmungen/staerkung-der-studierendenschaft-universitaeten/tabelle"
+            ],
+            "votes": {
+              "54": [
+                58,
+                0,
+                54,
+                0,
+                4
+              ],
+              "74": [
+                29,
+                26,
+                0,
+                0,
+                3
+              ],
+              "75": [
+                9,
+                9,
+                0,
+                0,
+                0
+              ],
+              "78": [
+                14,
+                0,
+                14,
+                0,
+                0
+              ],
+              "79": [
+                14,
+                14,
+                0,
+                0,
+                0
+              ],
+              "82": [
+                8,
+                0,
+                8,
+                0,
+                0
+              ],
+              "total": [
+                132,
+                49,
+                76,
+                0,
+                7
+              ]
+            }
+          },
+          {
+            "id": 1027,
+            "title": "Anpassung des Bildungspakets 2020",
+            "date": "2012-04-03",
+            "description": "Ein Antrag der SPD zur Anpassung des Bildungspakets wurde mit den Stimmen der CDU und FDP abgelehnt.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/5/abstimmungen/anpassung-des-bildungspakets-2020/tabelle"
+            ],
+            "votes": {
+              "54": [
+                58,
+                0,
+                54,
+                1,
+                3
+              ],
+              "74": [
+                29,
+                26,
+                0,
+                0,
+                3
+              ],
+              "75": [
+                9,
+                9,
+                0,
+                0,
+                0
+              ],
+              "78": [
+                14,
+                0,
+                14,
+                0,
+                0
+              ],
+              "79": [
+                14,
+                13,
+                0,
+                0,
+                1
+              ],
+              "82": [
+                8,
+                8,
+                0,
+                0,
+                0
+              ],
+              "total": [
+                132,
+                56,
+                68,
+                1,
+                7
+              ]
+            }
+          },
+          {
+            "id": 1026,
+            "title": "Neuordnung der Standorte von Justiz Verwaltung",
+            "date": "2012-01-25",
+            "description": "Eine Beschlussempfehlung zu einem Gesetzentwurf der Staatsregierung wurde angenommen.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/5/abstimmungen/neuordnung-der-standorte-von-justiz-verwaltung/tabelle"
+            ],
+            "votes": {
+              "54": [
+                58,
+                54,
+                1,
+                2,
+                1
+              ],
+              "74": [
+                29,
+                0,
+                25,
+                0,
+                4
+              ],
+              "75": [
+                9,
+                0,
+                9,
+                0,
+                0
+              ],
+              "78": [
+                14,
+                14,
+                0,
+                0,
+                0
+              ],
+              "79": [
+                14,
+                0,
+                13,
+                0,
+                1
+              ],
+              "82": [
+                8,
+                0,
+                8,
+                0,
+                0
+              ],
+              "total": [
+                132,
+                68,
+                56,
+                2,
+                6
+              ]
+            }
+          },
+          {
+            "id": 970,
+            "title": "Gesetz zur Anhebung der Altersgrenzen und zur Änderung weiterer beamtenrechtlicher Regelungen",
+            "date": "2011-09-14",
+            "description": "Neuregelungen im sächsischen Beamtenrecht, in dessen Folge sich die Altersgrenze bis zum Ruhestand erhöht.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/5/abstimmungen/gesetz-zur-anhebung-der-altersgrenzen-und-zur-aenderung-weiterer/tabelle"
+            ],
+            "votes": {
+              "54": [
+                57,
+                54,
+                0,
+                0,
+                3
+              ],
+              "74": [
+                29,
+                0,
+                28,
+                0,
+                1
+              ],
+              "75": [
+                9,
+                0,
+                0,
+                9,
+                0
+              ],
+              "78": [
+                14,
+                14,
+                0,
+                0,
+                0
+              ],
+              "79": [
+                14,
+                0,
+                13,
+                0,
+                1
+              ],
+              "82": [
+                8,
+                0,
+                0,
+                5,
+                3
+              ],
+              "total": [
+                131,
+                68,
+                41,
+                14,
+                8
+              ]
+            }
+          },
+          {
+            "id": 969,
+            "title": "Gesetz über die landesrechtliche Geltung des Gesetzes über Versammlungen und Aufzüge",
+            "date": "2010-01-20",
+            "description": "Veränderung des Versammlungsrechts durch die Regierungskoalition.  Es sollen dadurch Grenzen für Extremisten entstehen indem deren Versammlungsfreiheit eingeschränkt wird.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/5/abstimmungen/gesetz-ueber-die-landesrechtliche-geltung-des-gesetzes-ueber-versammlungen/tabelle"
+            ],
+            "votes": {
+              "54": [
+                58,
+                55,
+                0,
+                0,
+                3
+              ],
+              "74": [
+                29,
+                0,
+                29,
+                0,
+                0
+              ],
+              "75": [
+                9,
+                0,
+                9,
+                0,
+                0
+              ],
+              "78": [
+                14,
+                13,
+                0,
+                0,
+                1
+              ],
+              "79": [
+                14,
+                0,
+                12,
+                0,
+                2
+              ],
+              "82": [
+                7,
+                0,
+                7,
+                0,
+                0
+              ],
+              "total": [
+                131,
+                68,
+                57,
+                0,
+                6
+              ]
+            }
+          },
+          {
+            "id": 968,
+            "title": "Sachsen LB-Pleite",
+            "date": "2011-01-20",
+            "description": "Ehemalige Mitglieder des Vorstandes und Kreditausschusses der Sachsen LB sollen für deren Insolvenz haftbar werden, wenn ihnen nachgewiesen wird, dass sie Sorgfaltspflichten missachtet haben.",
+            "sources": [
+              "https://www.abgeordnetenwatch.de/sachsen/5/abstimmungen/sachsen-lb-pleite/tabelle"
+            ],
+            "votes": {
+              "54": [
+                58,
+                0,
+                55,
+                0,
+                3
+              ],
+              "74": [
+                29,
+                26,
+                0,
+                0,
+                3
+              ],
+              "75": [
+                9,
+                9,
+                0,
+                0,
+                0
+              ],
+              "78": [
+                14,
+                0,
+                14,
+                0,
+                0
+              ],
+              "79": [
+                14,
+                11,
+                0,
+                0,
+                3
+              ],
+              "82": [
+                7,
+                7,
+                0,
+                0,
+                0
+              ],
+              "total": [
+                131,
+                53,
+                69,
+                0,
+                9
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
