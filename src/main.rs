@@ -48,14 +48,14 @@ fn parse_polls() -> Result<HashMap<u32, Parliament>>{
 
 
 #[get("/list?<parliament_id>&<count>")]
-fn index(parliament_id: u32,count: u32, state: &State<Data>) -> String {
-    let mut poll: Vec<&Poll> = Vec::new();
+fn index(parliament_id: u32,count: u32, state: &State<Data>) -> Json<Vec<&Poll>> {
+    let mut polls: Vec<&Poll> = Vec::new();
     let poll1 = &state.data[&parliament_id].periods[&97].polls[0];
     let poll2 = &state.data[&parliament_id].periods[&97].polls[1];
-    poll.push(poll1);
-    poll.push(poll2);
+    polls.push(poll1);
+    polls.push(poll2);
 
-    serde_json::to_string(&poll).unwrap()
+    Json(polls)
 }
 
 
