@@ -1,32 +1,28 @@
 #[macro_use] extern crate rocket;
-use serde::{Deserialize, Serialize};
-use serde_json::Result;
+use rocket::serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 use std::fs;
 use rocket::State;
-use rocket::Responder;
-use rocket_contrib::json::Json;
-use serde_json::ser;
-use serde_json::json;
-
-//TO-DO:
-// What does responder do?
-
-
+use rocket::serde::json::Json;
+use serde_json;
+use serde_json::Result;
 
 #[derive(Serialize, Deserialize)]
+#[serde(crate = "rocket::serde")]
 struct Parliament {
     name: String,
     periods: HashMap<u32, Period>,
 }
 
 #[derive(Serialize, Deserialize)]
+#[serde(crate = "rocket::serde")]
 struct Period {
     name: String,
     polls: Vec<Poll>,
 }
 
 #[derive(Serialize, Deserialize)]
+#[serde(crate = "rocket::serde")]
 struct Poll {
     id: u32,
     title: String,
@@ -52,14 +48,14 @@ fn parse_polls() -> Result<HashMap<u32, Parliament>>{
 
 
 #[get("/list?<parliament_id>&<count>")]
-fn index(parliament_id: u32,count: u32, state: &State<Data>) -> String {
-    let mut poll: Vec<&Poll> = Vec::new();
+fn index(parliament_id: u32,count: u32, state: &State<Data>) -> Json<Vec<&Poll>> {
+    let mut polls: Vec<&Poll> = Vec::new();
     let poll1 = &state.data[&parliament_id].periods[&97].polls[0];
     let poll2 = &state.data[&parliament_id].periods[&97].polls[1];
-    poll.push(poll1);
-    poll.push(poll2);
+    polls.push(poll1);
+    polls.push(poll2);
 
-    serde_json::to_string(&poll).unwrap()
+    Json(polls)
 }
 
 
