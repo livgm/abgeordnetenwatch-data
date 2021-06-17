@@ -1,32 +1,28 @@
 #[macro_use] extern crate rocket;
-use serde::{Deserialize, Serialize};
-use serde_json::Result;
+use rocket::serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 use std::fs;
 use rocket::State;
-use rocket::Responder;
-use rocket_contrib::json::Json;
-use serde_json::ser;
-use serde_json::json;
-
-//TO-DO:
-// What does responder do?
-
-
+use rocket::serde::json::Json;
+use serde_json;
+use serde_json::Result;
 
 #[derive(Serialize, Deserialize)]
+#[serde(crate = "rocket::serde")]
 struct Parliament {
     name: String,
     periods: HashMap<u32, Period>,
 }
 
 #[derive(Serialize, Deserialize)]
+#[serde(crate = "rocket::serde")]
 struct Period {
     name: String,
     polls: Vec<Poll>,
 }
 
 #[derive(Serialize, Deserialize)]
+#[serde(crate = "rocket::serde")]
 struct Poll {
     id: u32,
     title: String,
